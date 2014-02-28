@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "json2Html.gemspec",
     "lib/json2Html.rb",
     "spec/json2Html_spec.rb",
     "spec/spec_helper.rb"
